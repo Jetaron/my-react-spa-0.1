@@ -1,0 +1,19 @@
+/* src/components/Header.css */
+.app-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #61dafb;
+  }
+  
+  .app-header h1 {
+    margin: 0 0 10px 0;
+    font-size: 2.5em;
+  }
+  
+  .app-header p {
+    margin: 0;
+    font-size: 1.1em;
+  }

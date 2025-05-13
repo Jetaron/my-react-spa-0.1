@@ -1,0 +1,25 @@
+/* src/components/SliderComponent.css */
+.slider-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 500px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .slider-container h3 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .slider {
+    width: 80%;
+    margin: 15px 0;
+  }
+  
+  .slider-container p {
+    font-size: 1.1em;
+    color: #555;
+  }
